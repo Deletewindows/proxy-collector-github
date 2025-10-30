@@ -157,7 +157,7 @@ async def collect_proxies(proxy_type, source_dir, proxy_dir):
 
 async def main():
     # Устанавливаем название окна
-    set_console_title(" ඩ Proxy Collector ツ | By https://lolz.live/members/8522994/ ")
+    set_console_title(" ඩ Proxy Collector ツ | By lolz.live/members/8522994/ | github.com/Deletewindows ")
     
     script_dir = os.path.dirname(os.path.abspath(__file__))
     
